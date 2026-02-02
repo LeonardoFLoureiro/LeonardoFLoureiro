@@ -13,11 +13,11 @@ Aqui você encontra meus principais projetos acadêmicos e pessoais.
 ## Projetos em Destaque
 
 ### Processamento e Análise de Imagens
-📌 Projetos envolvendo **ROI**, classificação, transformação geométrica e
+Projetos envolvendo **ROI**, classificação, transformação geométrica e
 manipulação de imagens médicas.
 
 **Tecnologias:** Python, NumPy, OpenCV, Tkinter  
-🔗 Repositório: *(link do seu projeto)*
+Repositório: *(link do seu projeto)*
 
 ---
 
