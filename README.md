@@ -10,7 +10,6 @@ Com interesse em **Inteligência Artificial**, **Processamento e Análise de Ima
 Aqui você encontra meus principais projetos acadêmicos e pessoais.
 
 ---
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoFLoureiro&layout=compact&theme=github_dark&cache_seconds=1800" />
 ## Projetos em Destaque
 
 ### Processamento e Análise de Imagens
@@ -22,37 +21,19 @@ manipulação de imagens médicas.
 
 ---
 
-### CRUD em Python com CSV
-📌 Sistema CRUD que classifica automaticamente dados a partir do nome do arquivo,
-utilizando regras de negócio.
-
-**Tecnologias:** Python  
-🔗 Repositório: *(link do seu projeto)*
-
----
-
-### 🌐 Projeto de Redes de Computadores
-📌 Modelagem e documentação de uma rede corporativa no **Cisco Packet Tracer**,
-com VLANs, DHCP, DNS e controle de acesso.
-
-**Tecnologias:** Cisco Packet Tracer, Redes  
-🔗 Repositório: *(link do seu projeto)*
-
----
-
-## 🛠 Tecnologias & Conhecimentos
+## Tecnologias & Conhecimentos
 - Python
 - Java
 - SQL
 - Processamento de Imagens
+- Machine Learning
 - Inteligência Artificial
-- Redes de Computadores
 - Git & GitHub
 
 ---
 
-## 📫 Contato
-- LinkedIn: *(seu link)*
-- Email: *(opcional)*
+##  Contato
+- LinkedIn: https://www.linkedin.com/in/leonardo-loureiro-8177a4227/
+- Email: leonardofloureiro@gmail.com
 
 
