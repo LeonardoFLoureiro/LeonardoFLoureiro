@@ -1,25 +1,19 @@
-# 👨‍💻 Leonardo Loureiro — Portfólio
+Leonardo Loureiro
 
-Olá! Sou estudante de **Ciência da Computação (7º período)**, com interesse em
-**Inteligência Artificial**, **Processamento e Análise de Imagens** e
+Bacharel em Ciência da Computação pela PUC Minas, com experiência prática no desenvolvimento de soluções
+tecnológicas que integram automação de processos, análise de dados e inteligência artificial. Atuação em projetos
+corporativos e acadêmicos envolvendo otimização de fluxos de trabalho, machine learning e IoT. Domínio em
+Python, Java e bancos de dados relacionais, além de ferramentas Microsoft como Power BI e Power Automate.
+Com interesse em **Inteligência Artificial**, **Processamento e Análise de Imagens** e
 **Desenvolvimento de Sistemas**.
 
 Aqui você encontra meus principais projetos acadêmicos e pessoais.
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
-### 🧠 Sistema Baseado em IA (RAG + MCP)
-📌 Assistente conversacional que responde perguntas a partir de documentos PDF,
-utilizando **LLMs**, **embeddings** e **RAG (Retrieval-Augmented Generation)**.
-
-**Tecnologias:** Python, LLMs, embeddings, web app  
-🔗 Repositório: https://github.com/andre-brandao/db-gpt
-
----
-
-### 🖼 Processamento e Análise de Imagens
+### Processamento e Análise de Imagens
 📌 Projetos envolvendo **ROI**, classificação, transformação geométrica e
 manipulação de imagens médicas.
 
@@ -28,7 +22,7 @@ manipulação de imagens médicas.
 
 ---
 
-### 📊 CRUD em Python com CSV
+### CRUD em Python com CSV
 📌 Sistema CRUD que classifica automaticamente dados a partir do nome do arquivo,
 utilizando regras de negócio.
 
