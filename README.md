@@ -10,7 +10,7 @@ Com interesse em **Inteligência Artificial**, **Processamento e Análise de Ima
 Aqui você encontra meus principais projetos acadêmicos e pessoais.
 
 ---
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoFLoureiro&layout=compact&theme=tokyonight)
 ## Projetos em Destaque
 
 ### Processamento e Análise de Imagens
