@@ -17,7 +17,7 @@ Projetos envolvendo **ROI**, classificação, transformação geométrica e
 manipulação de imagens médicas.
 
 **Tecnologias:** Python, NumPy, OpenCV, Tkinter  
-Repositório: *(link do seu projeto)*
+Repositório: 
 
 ---
 
